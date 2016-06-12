@@ -15,7 +15,6 @@ public class Cutthesticks {
         test(n,sticks);
 
     }
-
     private static void test(int n,int sticks[]) {
         while(checkEmpty(n,sticks)==false)
         {

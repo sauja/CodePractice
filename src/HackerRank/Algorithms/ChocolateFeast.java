@@ -5,6 +5,5 @@ package HackerRank.Algorithms;
  */
 public class ChocolateFeast {
     /*
-
      */
 }
