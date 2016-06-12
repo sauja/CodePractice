@@ -1,11 +1,11 @@
 package HackerRank.Algorithms;
 
-import java.util.Scanner;
-
-public class Solution {
-
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+/**
+ * https://www.hackerrank.com/challenges/bear-and-workbook
+ */
+public class LisaWorkbook {
+    /*
+       Scanner in = new Scanner(System.in);
         int chapters=in.nextInt();
         int perPageQuestion=in.nextInt();
         int []questions=new int[chapters];
@@ -43,4 +43,6 @@ public class Solution {
 
     }
 
+
+     */
 }
