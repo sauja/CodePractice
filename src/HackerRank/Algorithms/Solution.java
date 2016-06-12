@@ -14,8 +14,7 @@ public class Solution {
     		}
         
     }
-    private static void test(int a,int b)
-    {
+    private static void test(int a,int b) {
 
     }
 }
