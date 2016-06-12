@@ -1,11 +1,11 @@
 package HackerRank.Algorithms;
 
-import java.util.Scanner;
-
-public class Solution {
-
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+/**
+ * https://www.hackerrank.com/challenges/service-lane?h_r=next-challenge&h_v=zen
+ */
+public class ServiceLane {
+    /*
+     Scanner in = new Scanner(System.in);
         int n = in.nextInt();
         int t = in.nextInt();
         int width[] = new int[n];
@@ -26,4 +26,6 @@ public class Solution {
         }
         System.out.println(vehicle);
     }
+
+     */
 }
